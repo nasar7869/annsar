@@ -37,7 +37,7 @@
 	    <!-- Compile the java code from ${src} into ${build} -->
 
 
-	    <javac srcdir="${srccode}" destdir="${build}" includeantruntime="false"/>
+	    <javac srccodedir="${srccode}" destdir="${build}" includeantruntime="false"/>
 </target>
 
 
