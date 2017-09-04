@@ -7,7 +7,7 @@
 	  <!-- set global properties for this build -->
 
 
-	  <property name="src" value="C:\Users\NASER\Desktop\New folder\hw_src"/>
+	  <property name="src" value="srccode/main"/>
 
 
 	  <property name="build" location="Nasar"/>
