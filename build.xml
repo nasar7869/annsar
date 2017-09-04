@@ -7,7 +7,7 @@
 	  <!-- set global properties for this build -->
 
 
-	  <property name="srccode" value="srccode/main"/>
+	  <property name="srccode" value="srccode"/>
 
 
 	  <property name="build" location="Nasar"/>
